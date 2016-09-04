@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://AbhilashAwasthi01.github.io"
+url: "http://AwasthiMaddy.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -41,7 +41,7 @@ author:
   name: Abhilash Awasthi
   email: "maddy14awasthi@gmail.com"
   facebook: madhav.awasthi  # eg. daattali
-  github: AbhilashAwasthi01    # eg. daattali
+  github: AwasthiMaddy   # eg. daattali
   twitter: AwasthiMaddy   # eg. daattali
   linkedin: abhilashawasthi  # eg. daattali
   stackoverflow: 4590360/abhilash-awasthi  # eg. "3943160/daattali"
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "AbhilashAwasthi01.github.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "AwasthiMaddy.github.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
