@@ -11,5 +11,3 @@ My name is Abhilash Awasthi. I have the following qualities:
 
 What else do you need?
 
-### my history
-
